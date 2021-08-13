@@ -10,6 +10,6 @@
 - Sorted list : Elements are positioned in ascending order of value
 - Unsorted list : Elements have no particular relationship
 
-### Advantage of the list DS
+## Advantage of the list DS
 - There are operations such as insert and delete which works at the current position
   - This will make adding and deleting an element much easier and faster
