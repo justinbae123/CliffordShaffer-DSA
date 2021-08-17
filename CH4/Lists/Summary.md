@@ -13,3 +13,11 @@
 ## Advantage of the list DS
 - There are operations such as insert and delete which works at the current position
   - This will make adding and deleting an element much easier and faster
+
+## Implementation
+- Array-based List
+  - It actually uses [] operator from c array, so traversing over the elements is easy
+  - Just looking apparently, cannot find out any difference with c++ vector(maybe there will be differnece when inserting an element)
+- Linked List
+  - Linked list is made up of a series of objects called the nodes(node is a distinct object opposed to a cell in an array)
+  - Basically, considering encapsulation, node should be the private member of the linked list
