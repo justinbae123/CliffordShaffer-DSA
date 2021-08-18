@@ -21,3 +21,7 @@
 - Linked List
   - Linked list is made up of a series of objects called the nodes(node is a distinct object opposed to a cell in an array)
   - Basically, considering encapsulation, node should be the private member of the linked list
+  - **For operations such as insert, linked list shows better performance due to the node**
+  - **However, operations like prev or current position is much less efficient**
+
+
